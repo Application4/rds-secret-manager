@@ -1,0 +1,1 @@
+# rds-secret-manager
